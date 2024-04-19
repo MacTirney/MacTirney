@@ -2,7 +2,7 @@
 <h3 align="center">A Software engineer from Orlando, Florida</h3>
 <img align="right" alt="Climbing" width="300" src="https://i.pinimg.com/originals/f8/80/28/f88028821915496a4fa2622a6f89e658.gif">
 
-- 🔭 I’m currently working on an **SimpleEQ Audio Plugin**
+- 🔭 I’m currently working on a **SimpleEQ Audio Plugin**
 
 - 🌱 I’m currently learning **C++ and the JUCE Framework**
 
