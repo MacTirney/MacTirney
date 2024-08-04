@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: **mactirneyav@gmail.com**
 
-- ⚡ Fun fact **I love rock climbing and gardening**
+- ⚡ Fun fact **I love rock climbing and rugby**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
